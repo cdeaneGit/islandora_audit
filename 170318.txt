@@ -10,3 +10,5 @@ bing search for "travis.yml tutorial"
 - https://www.raywenderlich.com/109418/travis-ci-tutorial
 - https://code.tutsplus.com/tutorials/travis-ci-what-why-how--net-34771
 ________________________________________
+Added travis-broken-example repo to cdeaneGit/
+There is no php on this computer (home-dell-windows8) so cannot do the build until next week.
