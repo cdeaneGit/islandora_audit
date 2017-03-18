@@ -1,0 +1,12 @@
+170308.txt
+Some links.
+________________________________________
+bing search for "travis.yml tutorial"
+
+- https://travis-ci.org/
+- https://docs.travis-ci.com/user/getting-started/
+- https://docs.travis-ci.com/user/for-beginners/
+- https://www.jsclasses.org/browse/file/2938.html
+- https://www.raywenderlich.com/109418/travis-ci-tutorial
+- https://code.tutsplus.com/tutorials/travis-ci-what-why-how--net-34771
+________________________________________
