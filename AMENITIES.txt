@@ -1,0 +1,26 @@
+For cdeaneGit/islandora_audit
+
+
+AMENITIES.txt
+170320
+
+Navigation MENU
+TITLE: *********************** IREPO__REPOSITORY ***********************
+PATH:  http://localhost:8000/islandora/object/islandora%3Aroot (or use default)
+PARENT LINK: <Navigation>
+WEIGHT: 2
+
+
+Management MENU
+TITLE: IREPO
+PATH:  http://localhost:8000/islandora/object/islandora%3Aroot
+PARENT LINK:  <Management> --Administration
+WEIGHT:  10
+
+Content Display for HOME
+Add Content Article
+TITLE:  Islandora on Fire
+Tags:   empty
+Body:   empty
+Text Format:  Filtered HTML
+Image Upload:  170305_islandora_on_fire_ssj2.png (295 Kb)
