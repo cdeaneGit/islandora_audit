@@ -7,7 +7,12 @@ You have to fix this before you use drush.
 
 Initialized Drupal site localhost at sites/default                                                                                                                  [notice]
 Use of undefined constant required - assumed 'required' islandora_checksum_checker.drush.inc:60                                                                     [notice]
-Use of undefined constant required - assumed 'required' islandora_checksum_checker.drush.inc:65         
+Use of undefined constant required - assumed 'required' islandora_checksum_checker.drush.inc:65 
+
+FIX WITH:
+        'value' => 365, /* line 60 annoyance: 'value' => required, */
+         'value' => 12, /* line 65 annoyance 'value' => required, */
+       
 
 
 AMENITIES.txt
