@@ -17,6 +17,10 @@ FIX WITH:
        
 Annoyance 2. ---------------------------------------------------------
 
+GET JAIL: https://github.com/sebarmeli/JAIL 
+JAIL is a jquery library.
+
+
 Install JAIL at $DRUPAL_HOME/sites/all/libraries
 
 Configure JAIL navigation in BLOCKS Sidebar second
