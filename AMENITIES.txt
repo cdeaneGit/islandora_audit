@@ -1,7 +1,9 @@
 For cdeaneGit/islandora_audit
 
 
-ANNOYANCE:
+ANNOYANCES:
+
+Annoyance 1. ----------------------------------------------------------
 
 You have to fix this before you use drush.
 
@@ -13,6 +15,15 @@ FIX WITH:
         'value' => 365, /* line 60 annoyance: 'value' => required, */
          'value' => 12, /* line 65 annoyance 'value' => required, */
        
+Annoyance 2. ---------------------------------------------------------
+
+Install JAIL at $DRUPAL_HOME/sites/all/libraries
+
+Configure JAIL navigation in BLOCKS Sidebar second
+
+Annoyance 3. ---------------------------------------------------------
+
+I am sure there will be  more.
 
 
 AMENITIES.txt
@@ -23,6 +34,14 @@ TITLE: *********************** IREPO__REPOSITORY ***********************
 PATH:  http://localhost:8000/islandora/object/islandora%3Aroot (or use default)
 PARENT LINK: <Navigation>
 WEIGHT: 2
+
+VAGRANT HELP:  http://dlwork.lib.utk.edu/~cdeane/ACTIVE/VAGRANT/VagrantHelpPages/VagrantHelp.htm
+
+CONFIGURE ISLANDORA 
+
+TITLE:  Revise to what you want
+SLOGAN: Link to Fedora PIDS
+<a href="http://localhost:8080/solr/collection1/select?q=*%3A*&sort=PID+asc&rows=1000000&fl=PID&wt=csv&indent=true" target="_blank">fpids</a>
 
 
 Management MENU
