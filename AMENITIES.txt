@@ -29,20 +29,19 @@ I am sure there will be  more.
 AMENITIES.txt
 170320
 
-Navigation MENU
-TITLE: *********************** IREPO__REPOSITORY ***********************
-PATH:  http://localhost:8000/islandora/object/islandora%3Aroot (or use default)
-PARENT LINK: <Navigation>
-WEIGHT: 2
-
 VAGRANT HELP:  http://dlwork.lib.utk.edu/~cdeane/ACTIVE/VAGRANT/VagrantHelpPages/VagrantHelp.htm
 
-CONFIGURE ISLANDORA 
+CONFIGURE ISLANDORA Header
 
 TITLE:  Revise to what you want
 SLOGAN: Link to Fedora PIDS
 <a href="http://localhost:8080/solr/collection1/select?q=*%3A*&sort=PID+asc&rows=1000000&fl=PID&wt=csv&indent=true" target="_blank">fpids</a>
 
+Navigation MENU
+TITLE: *********************** IREPO__REPOSITORY ***********************
+PATH:  http://localhost:8000/islandora/object/islandora%3Aroot (or use default)
+PARENT LINK: <Navigation>
+WEIGHT: 2
 
 Management MENU
 TITLE: IREPO
