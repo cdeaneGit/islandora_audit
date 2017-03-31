@@ -56,10 +56,14 @@ PARENT LINK:  <Management> --Administration
 WEIGHT:  10
 
 TITLE:  COMP
-PATH:   �http://localhost:8000/islandora/object/islandora%3Acompound_collection
+PATH:   http://localhost:8000/islandora/object/islandora%3Acompound_collection
 PARENT LINK:  <Management> --Administration
 WEIGHT:  11
 
+TITLE: COMPCONFIG
+PATH: http://localhost:8000/islandora/object/islandora%3A2#overlay=admin/islandora/solution_pack_config/compound_object
+PARENT LINK:  <Management> --Administration
+WEIGHT:  12
 
 Content Display for HOME
 Add Content Article
