@@ -40,6 +40,8 @@ CONFIGURE ISLANDORA Header
 TITLE:  Revise to what you want
 SLOGAN: Link to Fedora PIDS
 <a href="http://localhost:8080/solr/collection1/select?q=*%3A*&sort=PID+asc&rows=1000000&fl=PID&wt=csv&indent=true" target="_blank">fpids</a>
+the one below fits.
+<a href="http://localhost:8080/solr/collection1/select?q=*%3A*&sort=PID+asc&rows=1000000&fl=PID&wt=csv&indent=true">fpids</a>
 
 Navigation MENU
 TITLE: *********************** IREPO__REPOSITORY ***********************
